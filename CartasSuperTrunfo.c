@@ -22,11 +22,11 @@ int main() {
     printf("entre 850 a 1.200.00:\n");
     scanf("%s, Pontos turísticos")
 
+     printf("36.000: %S - entre 850 a 1.200.00: %s",Pib,Pontos tueísticos);
+     
+      printf("123.400.000: %d - 377.975.000: %f",população,área);
+     printf("36.000: %S - entre 850 a 1.200.00: %s",Pib,Pontos tueísticos);
 
-  // Área para definição das variáveis para armazenar as propriedades das cidades
-
-  // Área para entrada de dados
-
-  // Área para exibição dos dados da cidade  
+   printf("123.400.000: %d - 377.975.000: %f",população,área);
 return 0;
 } 
